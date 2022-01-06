@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rgb-katana, and my name is Kirill
+- 👋 Hi, I’m @rgb-katana, and my name real name is Kirill, I'm from Russia
 - 👀 I’m interested in learning Python at the moment
 - 🌱 I’m currently learning Python on JetBrains Academy
 - 📫 How to reach me: https://t.me/kirill1610560
