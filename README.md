@@ -6,7 +6,7 @@ I'm currently trying to complete <b>The Odin Project</b> <a href="https://www.th
   <li><a href="https://rgb-katana.github.io/odin-calculator/">Calculator</a></li>
   <li><a href="https://rgb-katana.github.io/odin-rock-paper-scissors/">Rock Paper Scissors</a></li>
   <li><a href="https://rgb-katana.github.io/odin-rock-paper-scissors/">Rock Paper Scissors</a></li>
-  <li><a href="https://rgb-katana.github.io/bubbles/">Aim for the bubbles</a>(It's actually not in The Odin Project curriculum. I did it by myself.)</li>
+  <li><a href="https://rgb-katana.github.io/bubbles/">Aim for the bubbles</a> (It's actually not in The Odin Project curriculum. I did it by myself.)</li>
 </ul>
 
 <!---
