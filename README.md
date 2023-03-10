@@ -7,9 +7,9 @@ I'm currently trying to complete <b>The Odin Project</b> <a href="https://www.th
   <li><a href="https://rgb-katana.github.io/odin-rock-paper-scissors/">Rock Paper Scissors</a></li>
   <li><a href="https://rgb-katana.github.io/bubbles/">Aim for the bubbles</a> (It's actually not in The Odin Project curriculum. I did it by myself.)</li>
   <li><a href="https://rgb-katana.github.io/odin-rock-paper-scissors/">Dashboard for imaginary admin panel</a> (It's made using sass and npm scripts.)</li>
-  <li>I'm thinking there will be more projects soon. And they'll be much more complex too.</li>
-  <li>You can check the code for this projects in the repositories down below.</li>
 </ul>
+
+I'm thinking there will be more projects soon. And they'll be much more complex too. You can check the code for this projects in the repositories down below.
 
 <!---
 rgb-katana/rgb-katana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
